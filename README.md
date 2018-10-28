@@ -60,7 +60,7 @@ When upgrading please see the [AdminLTE upgrade guide](https://adminlte.io/docs/
 |---|---|---|
 | 2.4 | 2.0 - 2.3 | required
 | 2.5 | 2.4 | required
-| 3.0 | 2.4 | -
+| 3.0 | 3.0 | -
 
 > For other [issues](https://github.com/dmstr/yii2-adminlte-asset/issues?utf8=%E2%9C%93&q=is%3Aissue), please search GitHub first.
 

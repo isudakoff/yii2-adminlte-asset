@@ -69,11 +69,13 @@ class Alert extends Widget
      * @var boolean whether to removed flash messages during AJAX requests
      */
     public $isAjaxRemoveFlash = true;
-    
+
     /**
      * Initializes the widget.
      * This method will register the bootstrap asset bundle. If you override this method,
      * make sure you call the parent implementation first.
+     *
+     * @throws \Exception
      */
     public function init()
     {

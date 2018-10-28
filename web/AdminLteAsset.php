@@ -31,6 +31,8 @@ class AdminLteAsset extends BaseAdminLteAsset
 
     /**
      * @inheritdoc
+     *
+     * @throws Exception
      */
     public function init()
     {
